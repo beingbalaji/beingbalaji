@@ -6,7 +6,7 @@ I’m a Computer Science and Engineering undergraduate at **Chennai Institute of
 
 **[FALCON Claim Review Lab →](https://beingbalaji.github.io/FALCON/)** · [Source, setup, and limitations](https://github.com/beingbalaji/FALCON)
 
-Paste a claim to inspect language cues, review its topic, follow a manual verification checklist, and export a local dashboard summary. Reconstructed from my research materials, this is a transparent review-priority prototype, **not an automated fact checker or trained classifier**.
+Paste a claim to inspect writing cues, review its topic, search published fact checks, and export a local dashboard summary. Reconstructed from my research materials, every claim remains **unverified** until evidence is checked; this is not an automated fact checker or trained classifier.
 
 **[Market Entry Scenario Lab →](https://beingbalaji.github.io/market-entry-lab/)** · [Source and method](https://github.com/beingbalaji/market-entry-lab)
 
@@ -16,7 +16,7 @@ Explore how demand, affordability, delivery access, and competition weights chan
 
 | Project | What it explores | Tools and approach |
 | --- | --- | --- |
-| **[FALCON - claim review](https://github.com/beingbalaji/FALCON)** | Reconstructed research prototype for explainable language-cue triage, topic summaries, and manual verification. | JavaScript, Node.js, accessible dashboard; ML and federation remain research goals |
+| **[FALCON - claim review](https://github.com/beingbalaji/FALCON)** | Reconstructed research prototype for explainable writing-cue reports, topic summaries, and manual evidence checks. | JavaScript, Node.js, accessible dashboard; ML and federation remain research goals |
 | **RoadSafe - road safety app** | Explores accident-hotspot verification and timely driver alerts. | Flutter, mobile app design |
 | **Indoor 3D navigation** | Turns an indoor walkthrough into a navigable 3D space with points of interest and route guidance. | Photogrammetry, 3D web viewer, pathfinding; in progress |
 | **Contactless vital-sign monitoring** | Estimates heart and breathing rates from webcam video for a research prototype. | Computer vision, remote PPG, 3D CNN, LSTM/GRU |
