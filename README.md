@@ -2,6 +2,12 @@
 
 I’m a Computer Science and Engineering undergraduate at **Chennai Institute of Technology** (class of 2028). I build projects at the intersection of data, practical software, and real-world decision making. I'm especially interested in business analytics, product thinking, research, and technology consulting.
 
+### Try an interactive project
+
+**[Market Entry Scenario Lab →](https://beingbalaji.github.io/market-entry-lab/)** · [Source and method](https://github.com/beingbalaji/market-entry-lab)
+
+Explore how demand, affordability, delivery access, and competition weights change the ranking of six hypothetical Chennai launch zones. Adjust assumptions, inspect each score, and export a CSV. **The data is synthetic**; this is a decision-method demo, not a real market recommendation.
+
 ### What I'm working on
 
 | Project | What it explores | Tools and approach |
