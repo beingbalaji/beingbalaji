@@ -32,6 +32,6 @@ I am named on published Indian patent application **202541103641 A**, for a wear
 ### Connect
 
 - [LinkedIn](https://www.linkedin.com/in/balaji-r-a2171b301/)
-- [Resume (PDF)](resume/Balaji_R_Resume.pdf)
+- [Resume (PDF)](Balaji_R_Resume.pdf)
 
 _I enjoy making technical work understandable and useful. Open to internships in analytics, product, research, and consulting._
